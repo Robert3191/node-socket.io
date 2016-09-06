@@ -1,4 +1,4 @@
 node-socket.io
 ==============
 
-useing socket.io
+using socket.io
